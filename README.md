@@ -1,8 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF9966&height=200&section=header&text=Hi!%20I'm%20Haon&fontSize=50&fontColor=ffffff)
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=3178C6&height=200&section=header&text=Hi!%20I'm%20Haon&fontSize=50&fontColor=ffffff)
 
 ### 🚀 Skills
 
@@ -29,6 +27,10 @@
   <a href="https://velog.io/@onding/posts"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href="intor48@gmail.com"><img src="https://img.shields.io/badge/intor48@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF9966&height=100&section=footer)
+
+  
+
+### Algorithm
+<a href="https://github.com/HA0N1/AlgorithmCodeKata"><img src="https://img.shields.io/badge/repository-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 
 </div>
