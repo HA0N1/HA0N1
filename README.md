@@ -23,6 +23,8 @@
   <a href="https://velog.io/@onding/posts"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href="intor48@gmail.com"><img src="https://img.shields.io/badge/intor48@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
+### Resume
+  <a href="https://separate-tuesday-6d2.notion.site/14438c6b9a3542439ddd98175dcd82e6"><img src="https://img.shields.io/badge/notion-00148C?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
   
 
